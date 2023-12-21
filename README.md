@@ -1,4 +1,4 @@
-## Workshop website
+## Workshop website - ⚠️ **Work in progress**
 
 <!-- badges: start -->
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://choosealicense.com/licenses/cc-by-4.0/)
@@ -7,7 +7,6 @@
 
 ![](https://raw.githubusercontent.com/biodiversitydata/.github/main/profile/banner-biodiversitydata_150dpi.png)
 
-⚠️ **Work in progress**
 
 Source of the [workshop](https://biodiversitydata.github.io/) **_Biodiversity Data Management_**
 co-organized by the
