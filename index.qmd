@@ -1,0 +1,81 @@
+---
+toc: true
+---
+
+# Welcome {.unnumbered}
+
+::: {.callout-note}
+## Registrations for the 2024 session are not yet open
+
+Registrations open each spring and the training course takes place during winter. 
+
+{{< fa hand-point-right >}}&nbsp; Subscribe to the 
+[FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
+to stay informed. More information is available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-data-management/).
+:::
+
+
+
+The objective of this five-day training course, co-organized by the 
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
+and the
+[PNDB](https://www.pndb.fr/), 
+is to train researchers in the different aspects of the data life cycle: acquisition,
+management, archiving, writing data paper and metadata. This training course focuses
+on biodiversity and environmental data.
+
+
+## Program {.unnumbered}
+
+Coming soon...
+
++---------------+-----------------------------------------------------+
+| **Monday**    | - ...                                               |
++---------------+-----------------------------------------------------+
+| **Tuesday**   | - ...                                               |
++---------------+-----------------------------------------------------+
+| **Wednesday** | - ...                                               |
++---------------+-----------------------------------------------------+
+| **Thursday**  | - ...                                               |
+|               | - Subgroups projects                                |
++---------------+-----------------------------------------------------+
+| **Friday**    | - Subgroups projects                                |
++---------------+-----------------------------------------------------+
+
+
+## Prerequisites {.unnumbered}
+
+{{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install 
+your working environment **before attending the training course**.
+
+{{< fa hand-point-right >}}&nbsp; You also need to create an account on [GitHub](https://github.com/signup/) (please edit your profile and enter your name).
+
+
+## Material {.unnumbered}
+
+All the material used in this training course (slides, data, exercises) is available at: <https://github.com/biodiversitydata/>
+
+
+
+## Citation {.unnumbered}
+
+> Casajus N, Coux C, Le Bras Y & Norvez O (2024) FRB-CESAB & PNDB training course: Biodiversity Data Management. 
+URL: <https://github.com/biodiversitydata>
+
+
+## Contributions {.unnumbered}
+
+If you see mistakes or want to suggest changes, please [create an issue](https://github.com/biodiversitydata/biodiversitydata.github.io/issues/new) on the source repository.
+
+
+## Reuse {.unnumbered}
+
+Text and figures are licensed under Creative Commons Attribution [CC By 4.0](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted.
+
+
+## See also {.unnumbered}
+
+
+Discover the other training courses provided by the FRB-CESAB and its partners: <https://frbcesab.github.io/training-courses/>
+
+

@@ -1,0 +1,79 @@
+project:
+  type: book
+
+book:
+  title: "Biodiversity Data Management"
+  
+  author: 
+  
+    - name: "Nicolas Casajus"
+      orcid: "0000-0002-5537-5294"
+      url: "https://nicolascasajus.fr"
+      affiliations: 
+        - name: FRB-CESAB
+          url: "https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"
+
+    - name: "Camille Coux"
+      orcid: "0000-0002-3921-9750"
+      url: "https://www.fondationbiodiversite.fr/en/membre/camille-coux/"
+      affiliations: 
+        - name: FRB-CESAB
+          url: "https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"
+
+    - name: "Yvan Le Bras"
+      orcid: "0000-0002-8504-068X"
+      url: "https://www.researchgate.net/profile/Yvan-Le-Bras"
+      affiliations: 
+        - name: PNDB
+          url: "https://www.pndb.fr"
+          
+    - name: "Olivier Norvez"
+      orcid: "0000-0001-7696-3493"
+      url: "https://orcid.org/0000-0001-7696-3493"
+      affiliations: 
+        - name: PNDB
+          url: "https://www.pndb.fr"
+      
+  date: today
+  description:  |
+    FRB-CESAB & PNDB training course
+    <br /><br />
+    <a href="https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-data-management/">
+      <img class="logo" src="https://raw.githubusercontent.com/biodiversitydata/.github/main/profile/banner-biodiversitydata_150dpi.png" style="width: 100%;" />
+    </a>
+
+  favicon: images/favicon.png
+  
+  sidebar: 
+    style: "docked"
+    collapse-level: 1
+
+  page-footer: 
+    left: "&copy; CC-By [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)"
+    center: "Code source available on [{{< fa brands github >}}](https://github.com/biodiversitydata/biodiversitydata.github.io/)"
+    right: "Built with [Quarto](https://quarto.org/)"
+    border: true
+  
+  reader-mode: false
+  search: false
+
+  chapters:
+    - index.qmd
+    - part: "Prerequisites"
+      chapters: 
+        - chapters/setting-up-r.qmd
+    - part: "Courses"
+      chapters: 
+        - chapters/coming-soon.qmd
+    - part: "Exercises"
+      chapters: 
+        - chapters/coming-soon.qmd
+    - part: "Resources"
+      chapters: 
+        - chapters/coming-soon.qmd
+
+format:
+  html:
+    theme: [cosmo, css/styles.css]
+    code-copy: true
+    code-line-numbers: false
