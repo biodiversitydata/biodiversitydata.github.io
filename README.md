@@ -1,4 +1,6 @@
-## Workshop website - ⚠️ **Work in progress**
+## Workshop website
+
+#### ⚠️ **Work in progress**
 
 <!-- badges: start -->
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://choosealicense.com/licenses/cc-by-4.0/)
