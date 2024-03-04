@@ -10,10 +10,9 @@
 
 
 Source of the [workshop](https://biodiversitydata.github.io/) **_Biodiversity Data Management_**
-co-organized by the
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
-and the
-[PNDB](https://www.pndb.fr/).
+co-organized by the 
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
+the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/).
 
 
 
@@ -22,8 +21,8 @@ and the
 
 ### Citation
 
-> Casajus N, Coux C, Le Bras Y & Norvez O (2024) 
-FRB-CESAB & PNDB training course: Biodiversity Data Management. 
+> Casajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) 
+FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. 
 URL: <https://github.com/biodiversitydata>
 
 
