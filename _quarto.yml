@@ -5,13 +5,6 @@ book:
   title: "Biodiversity Data Management"
   
   author: 
-  
-    - name: "Anne-Sophie Archambeau"
-      orcid: "0000-0001-6902-1465"
-      url: "https://www.patrinat.fr/fr/annuaire/anne-sophie-archambeau-6077"
-      affiliations: 
-        - name: GBIF France
-          url: "http://www.gbif.fr/"
     
     - name: "Nicolas Casajus"
       orcid: "0000-0002-5537-5294"
@@ -19,6 +12,14 @@ book:
       affiliations: 
         - name: FRB-CESAB
           url: "https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"
+
+  
+    - name: "Anne-Sophie Archambeau"
+      orcid: "0000-0001-6902-1465"
+      url: "https://www.patrinat.fr/fr/annuaire/anne-sophie-archambeau-6077"
+      affiliations: 
+        - name: GBIF France
+          url: "http://www.gbif.fr/"
 
     - name: "Camille Coux"
       orcid: "0000-0002-3921-9750"
