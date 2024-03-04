@@ -6,6 +6,13 @@ book:
   
   author: 
   
+    - name: "Anne-Sophie Archambeau"
+      orcid: "0000-0001-6902-1465"
+      url: "https://www.patrinat.fr/fr/annuaire/anne-sophie-archambeau-6077"
+      affiliations: 
+        - name: GBIF France
+          url: "http://www.gbif.fr/"
+    
     - name: "Nicolas Casajus"
       orcid: "0000-0002-5537-5294"
       url: "https://nicolascasajus.fr"
@@ -33,6 +40,13 @@ book:
       affiliations: 
         - name: PNDB
           url: "https://www.pndb.fr"
+          
+    - name: "Sophie Pamerlon"
+      orcid: "0000-0003-4736-7419"
+      url: "https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148"
+      affiliations: 
+        - name: GBIF France
+          url: "http://www.gbif.fr/"
       
   date: today
   description:  |

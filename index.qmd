@@ -17,9 +17,8 @@ to stay informed. More information is available on the [FRB-CESAB website](https
 
 
 The objective of this five-day training course, co-organized by the 
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
-and the
-[PNDB](https://www.pndb.fr/), 
+[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
+the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/)
 is to train researchers in the different aspects of the data life cycle: acquisition,
 management, archiving, writing data paper and metadata. This training course focuses
 on biodiversity and environmental data.
@@ -59,8 +58,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Casajus N, Coux C, Le Bras Y & Norvez O (2024) FRB-CESAB & PNDB training course: Biodiversity Data Management. 
-URL: <https://github.com/biodiversitydata>
+> Casajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. URL: <https://github.com/biodiversitydata>
 
 
 ## Contributions {.unnumbered}
