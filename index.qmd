@@ -7,7 +7,7 @@ toc: true
 ::: {.callout-note}
 ## Registrations for the 2024 session are not yet open
 
-Registrations open each spring and the training course takes place during winter. 
+Registrations open each spring and the training course takes place during fall. 
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
@@ -16,30 +16,45 @@ to stay informed. More information is available on the [FRB-CESAB website](https
 
 
 
-The objective of this five-day training course, co-organized by the 
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
-the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/)
-is to train researchers in the different aspects of the data life cycle: acquisition,
-management, archiving, writing data paper and metadata. This training course focuses
-on biodiversity and environmental data.
+This five-day training course, co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/) aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.
+
+We will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.
+
 
 
 ## Program {.unnumbered}
 
-Coming soon...
+**Introduction and overview**
 
-+---------------+-----------------------------------------------------+
-| **Monday**    | - ...                                               |
-+---------------+-----------------------------------------------------+
-| **Tuesday**   | - ...                                               |
-+---------------+-----------------------------------------------------+
-| **Wednesday** | - ...                                               |
-+---------------+-----------------------------------------------------+
-| **Thursday**  | - ...                                               |
-|               | - Subgroups projects                                |
-+---------------+-----------------------------------------------------+
-| **Friday**    | - Subgroups projects                                |
-+---------------+-----------------------------------------------------+
+- What is data/metadata?
+- Major types of biodiversity data
+- The data ecosystem in France and in research
+- The data cycle
+- Achieving a high degree of FAIRification
+- Current challenges (in research and beyond)
+
+**Data acquisition**
+
+- Best practices for data collection (field, laboratory, etc.)
+- Access to existing data (APIs, web scraping, text mining, etc.)
+- Raw data vs. derived data
+
+**Data management**
+
+- Structuring (SQL, CSV files, etc.)
+- Processing, cleansing and homogenization
+
+**Legal aspects**
+
+- Sharing, licensing, etc.
+
+**Opening data**
+
+- Data management plan
+- (Meta)data: standards
+- Storage and archiving
+- Dissemination and sharing
+- Enhancing value: The data paper
 
 
 ## Prerequisites {.unnumbered}
@@ -58,7 +73,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Casajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. URL: <https://github.com/biodiversitydata>
+> Casajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. URL: <https://github.com/biodiversitydata/>
 
 
 ## Contributions {.unnumbered}
