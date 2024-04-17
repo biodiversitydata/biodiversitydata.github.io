@@ -21,9 +21,7 @@ the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/).
 
 ### Citation
 
-> Casajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) 
-FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. 
-URL: <https://github.com/biodiversitydata>
+> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://github.com/biodiversitydata/>
 
 
 <hr />
