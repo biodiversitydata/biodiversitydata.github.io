@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Biodiversity Data Management",
     "section": "",
-    "text": "Welcome\nThe objective of this five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France is to train researchers in the different aspects of the data life cycle: acquisition, management, archiving, writing data paper and metadata. This training course focuses on biodiversity and environmental data.",
+    "text": "Welcome\nThis five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.\nWe will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.",
     "crumbs": [
       "Welcome"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "Biodiversity Data Management",
     "section": "Program",
-    "text": "Program\nComing soon…\n\n\n\n\n\n\n\nMonday\n\n…\n\n\n\nTuesday\n\n…\n\n\n\nWednesday\n\n…\n\n\n\nThursday\n\n…\nSubgroups projects\n\n\n\nFriday\n\nSubgroups projects",
+    "text": "Program\nIntroduction and overview\n\nWhat is data/metadata?\nMajor types of biodiversity data\nThe data ecosystem in France and in research\nThe data cycle\nAchieving a high degree of FAIRification\nCurrent challenges (in research and beyond)\n\nData acquisition\n\nBest practices for data collection (field, laboratory, etc.)\nAccess to existing data (APIs, web scraping, text mining, etc.)\nRaw data vs. derived data\n\nData management\n\nStructuring (SQL, CSV files, etc.)\nProcessing, cleansing and homogenization\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\nData management plan\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nEnhancing value: The data paper",
     "crumbs": [
       "Welcome"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#citation",
     "title": "Biodiversity Data Management",
     "section": "Citation",
-    "text": "Citation\n\nCasajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. URL: https://github.com/biodiversitydata",
+    "text": "Citation\n\nCasajus N, Archambeau A-S, Coux C, Le Bras Y, Norvez O & Pamerlon S (2024) FRB-CESAB, PNDB & GBIF France training course: Biodiversity Data Management. URL: https://github.com/biodiversitydata/",
     "crumbs": [
       "Welcome"
     ]
