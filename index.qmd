@@ -11,7 +11,7 @@ Registrations open each spring and the training course takes place during fall.
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
-to stay informed. More information is available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-data-management/).
+to stay informed. More information is available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/la_donnee_en_biodiversite/).
 :::
 
 
@@ -73,7 +73,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://github.com/biodiversitydata/>
+> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
 
 
 ## Contributions {.unnumbered}
