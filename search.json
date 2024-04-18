@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "",
     "text": "Welcome\nThis five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.\nWe will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.",
     "crumbs": [
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#program",
     "href": "index.html#program",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Program",
     "text": "Program\nIntroduction and overview\n\nWhat is data/metadata?\nMajor types of biodiversity data\nThe data ecosystem in France and in research\nThe data cycle\nAchieving a high degree of FAIRification\nCurrent challenges (in research and beyond)\n\nData acquisition\n\nBest practices for data collection (field, laboratory, etc.)\nAccess to existing data (APIs, web scraping, text mining, etc.)\nRaw data vs. derived data\n\nData management\n\nStructuring (SQL, CSV files, etc.)\nProcessing, cleansing and homogenization\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\nData management plan\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nEnhancing value: The data paper",
     "crumbs": [
@@ -22,7 +22,7 @@
   {
     "objectID": "index.html#prerequisites",
     "href": "index.html#prerequisites",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Prerequisites",
     "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course.\n  You also need to create an account on GitHub (please edit your profile and enter your name).",
     "crumbs": [
@@ -32,7 +32,7 @@
   {
     "objectID": "index.html#material",
     "href": "index.html#material",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Material",
     "text": "Material\nAll the material used in this training course (slides, data, exercises) is available at: https://github.com/biodiversitydata/",
     "crumbs": [
@@ -42,9 +42,9 @@
   {
     "objectID": "index.html#citation",
     "href": "index.html#citation",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Citation",
-    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://github.com/biodiversitydata/",
+    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://biodiversitydata.github.io/",
     "crumbs": [
       "Welcome"
     ]
@@ -52,7 +52,7 @@
   {
     "objectID": "index.html#contributions",
     "href": "index.html#contributions",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Contributions",
     "text": "Contributions\nIf you see mistakes or want to suggest changes, please create an issue on the source repository.",
     "crumbs": [
@@ -62,7 +62,7 @@
   {
     "objectID": "index.html#reuse",
     "href": "index.html#reuse",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "Reuse",
     "text": "Reuse\nText and figures are licensed under Creative Commons Attribution CC By 4.0, unless otherwise noted.",
     "crumbs": [
@@ -72,7 +72,7 @@
   {
     "objectID": "index.html#see-also",
     "href": "index.html#see-also",
-    "title": "Biodiversity Data Management",
+    "title": "Biodiversity data: From data collection to publication",
     "section": "See also",
     "text": "See also\nDiscover the other training courses provided by the FRB-CESAB and its partners: https://frbcesab.github.io/training-courses/",
     "crumbs": [
