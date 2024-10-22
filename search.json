@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "Biodiversity data: From data collection to publication",
     "section": "Program",
-    "text": "Program\nIntroduction and overview\n\nWhat is data/metadata?\nMajor types of biodiversity data\nThe data ecosystem in France and in research\nThe data cycle\nAchieving a high degree of FAIRification\nCurrent challenges (in research and beyond)\n\nData acquisition\n\nBest practices for data collection (field, laboratory, etc.)\nAccess to existing data (APIs, web scraping, text mining, etc.)\nRaw data vs. derived data\n\nData management\n\nStructuring (SQL, CSV files, etc.)\nProcessing, cleansing and homogenization\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\nData management plan\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nEnhancing value: The data paper",
+    "text": "Program\nGeneral context\n\nCurrent challenges in biodiversity data\nThe data ecosystem\nReproducibility concepts\nWhat is data/metadata?\nMajor types of biodiversity data\nFramework and good practices (data cycle, FAIR, etc.)\n\nData acquisition\n\nBest practices for data collection\nMajor biodiversity databases\nData acquisition: Web portals, API & web scraping\n\nData management\n\nStructure, formats & files\nProcessing & cleansing data\nOpenRefine\nVirtual Research Environments\n\nDataSHARE projects\n\nFRB-CESAB DataSHARE call\nZoom on Islets & PhenoFish groups\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\nData management plan\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nEnhancing value: data paper & software paper",
     "crumbs": [
       "Welcome"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#prerequisites",
     "title": "Biodiversity data: From data collection to publication",
     "section": "Prerequisites",
-    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course.\n  You also need to create an account on GitHub (please edit your profile and enter your name).",
+    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course. Note that you just need to install R, RStudio IDE (optional) and Rtools (for Windows users).",
     "crumbs": [
       "Welcome"
     ]
@@ -80,25 +80,83 @@
     ]
   },
   {
-    "objectID": "chapters/setting-up-r.html",
-    "href": "chapters/setting-up-r.html",
-    "title": "Setting up R",
+    "objectID": "chapters/prerequisites.html",
+    "href": "chapters/prerequisites.html",
+    "title": "Prerequisites",
     "section": "",
-    "text": "The guide to correctly install and configure a working environment for data science with , , and  is available at: https://frbcesab.github.io/rsetup/",
+    "text": "The guide to correctly install and set up R, RStudio IDE (optional) and Rtools (for Windows users) is available at: https://frbcesab.github.io/rsetup/\n\n\n\n\n\n\nNote\n\n\n\nFor this training course, you do not need to install Quarto, git, nor Docker. But you need to configure RStudio IDE as explaining here.",
     "crumbs": [
-      "Prerequisites",
-      "Setting up R"
+      "Prerequisites"
     ]
   },
   {
-    "objectID": "chapters/coming-soon.html",
-    "href": "chapters/coming-soon.html",
-    "title": "Coming soon",
+    "objectID": "chapters/introduction.html",
+    "href": "chapters/introduction.html",
+    "title": "General context",
     "section": "",
-    "text": "…",
+    "text": "Biodiversity data: General context\n\n\n\n   Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/",
     "crumbs": [
-      "Courses",
-      "Coming soon"
+      "General context"
+    ]
+  },
+  {
+    "objectID": "chapters/data-acquisition.html",
+    "href": "chapters/data-acquisition.html",
+    "title": "Data acquisition",
+    "section": "",
+    "text": "Data acquisition\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-access/   Slides: https://biodiversitydata.github.io/data-access/",
+    "crumbs": [
+      "Data acquisition"
+    ]
+  },
+  {
+    "objectID": "chapters/data-cleaning.html",
+    "href": "chapters/data-cleaning.html",
+    "title": "Data cleaning",
+    "section": "",
+    "text": "Data cleaning\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-cleaning/   Slides: https://biodiversitydata.github.io/data-cleaning/",
+    "crumbs": [
+      "Data cleaning"
+    ]
+  },
+  {
+    "objectID": "chapters/datashare.html",
+    "href": "chapters/datashare.html",
+    "title": "DataSHARE projects",
+    "section": "",
+    "text": "DataSHARE projects\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
+    "crumbs": [
+      "DataSHARE projects"
+    ]
+  },
+  {
+    "objectID": "chapters/data-sharing.html",
+    "href": "chapters/data-sharing.html",
+    "title": "Dissemination and sharing",
+    "section": "",
+    "text": "Data sharing\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/",
+    "crumbs": [
+      "Dissemination and sharing"
+    ]
+  },
+  {
+    "objectID": "chapters/software-paper.html",
+    "href": "chapters/software-paper.html",
+    "title": "Software paper",
+    "section": "",
+    "text": "Writing a software paper\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/software-paper/   Slides: https://biodiversitydata.github.io/software-paper/",
+    "crumbs": [
+      "Software paper"
+    ]
+  },
+  {
+    "objectID": "chapters/resources.html",
+    "href": "chapters/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon…",
+    "crumbs": [
+      "Resources"
     ]
   }
 ]
