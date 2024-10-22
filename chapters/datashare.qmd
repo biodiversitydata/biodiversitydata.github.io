@@ -1,0 +1,18 @@
+## DataSHARE projects {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## DataSHARE projects
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/datashare/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/datashare/>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/datashare"></iframe>
+</div>

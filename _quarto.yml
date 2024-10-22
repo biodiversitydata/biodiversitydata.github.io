@@ -73,18 +73,14 @@ book:
 
   chapters:
     - index.qmd
-    - part: "Prerequisites"
-      chapters: 
-        - chapters/setting-up-r.qmd
-    - part: "Courses"
-      chapters: 
-        - chapters/coming-soon.qmd
-    - part: "Exercises"
-      chapters: 
-        - chapters/coming-soon.qmd
-    - part: "Resources"
-      chapters: 
-        - chapters/coming-soon.qmd
+    - chapters/prerequisites.qmd
+    - chapters/introduction.qmd
+    - chapters/data-acquisition.qmd
+    - chapters/data-cleaning.qmd
+    - chapters/datashare.qmd
+    - chapters/data-sharing.qmd
+    - chapters/software-paper.qmd
+    - chapters/resources.qmd
 
 format:
   html:

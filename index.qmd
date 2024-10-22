@@ -5,9 +5,9 @@ toc: true
 # Welcome {.unnumbered}
 
 ::: {.callout-note}
-## Registrations for the 2024 session are not yet open
+## Registrations for the 2024 session are closed.
 
-Registrations open each spring and the training course takes place during fall. 
+Registrations open each spring and the training course takes place during the fall. 
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
@@ -24,25 +24,32 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 
 ## Program {.unnumbered}
 
-**Introduction and overview**
+**General context**
 
+- Current challenges in biodiversity data
+- The data ecosystem
+- Reproducibility concepts
 - What is data/metadata?
 - Major types of biodiversity data
-- The data ecosystem in France and in research
-- The data cycle
-- Achieving a high degree of FAIRification
-- Current challenges (in research and beyond)
+- Framework and good practices (data cycle, FAIR, etc.)
 
 **Data acquisition**
 
-- Best practices for data collection (field, laboratory, etc.)
-- Access to existing data (APIs, web scraping, text mining, etc.)
-- Raw data vs. derived data
+- Best practices for data collection
+- Major biodiversity databases
+- Data acquisition: Web portals, API & web scraping
 
 **Data management**
 
-- Structuring (SQL, CSV files, etc.)
-- Processing, cleansing and homogenization
+- Structure, formats & files
+- Processing & cleansing data
+- OpenRefine
+- Virtual Research Environments
+
+**DataSHARE projects**
+
+- FRB-CESAB DataSHARE call
+- Zoom on Islets & PhenoFish groups
 
 **Legal aspects**
 
@@ -54,15 +61,13 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 - (Meta)data: standards
 - Storage and archiving
 - Dissemination and sharing
-- Enhancing value: The data paper
+- Enhancing value: data paper & software paper
 
 
 ## Prerequisites {.unnumbered}
 
 {{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install 
-your working environment **before attending the training course**.
-
-{{< fa hand-point-right >}}&nbsp; You also need to create an account on [GitHub](https://github.com/signup/) (please edit your profile and enter your name).
+your working environment **before attending the training course**. Note that you just need to install [R](https://cran.r-project.org/), [RStudio IDE](https://posit.co/download/rstudio-desktop/) (optional) and [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users).
 
 
 ## Material {.unnumbered}

@@ -1,0 +1,9 @@
+# Prerequisites {.unnumbered}
+
+The guide to correctly install and set up [R](https://cran.r-project.org/), [RStudio IDE](https://posit.co/download/rstudio-desktop/) (optional) and [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users) is available at: <https://frbcesab.github.io/rsetup/>
+
+::: {.callout-note}
+## Note
+
+For this training course, you do not need to install Quarto, git, nor Docker. But you need to configure RStudio IDE as explaining [here](https://frbcesab.github.io/rsetup/chapters/rstudio.html).
+:::

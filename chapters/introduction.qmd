@@ -1,0 +1,18 @@
+## General context {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Biodiversity data: General context
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl), [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148) &  [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/general-context/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/general-context/>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/general-context"></iframe>
+</div>

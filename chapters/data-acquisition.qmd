@@ -1,0 +1,18 @@
+## Data acquisition {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Data acquisition
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr) & [Camille Coux](https://www.fondationbiodiversite.fr/en/membre/camille-coux/)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-access/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-access/>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/data-access"></iframe>
+</div>
