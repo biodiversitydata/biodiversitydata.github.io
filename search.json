@@ -96,7 +96,30 @@
     "section": "",
     "text": "Biodiversity data: General context\n\n\n\n   Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/",
     "crumbs": [
+      "Introduction",
       "General context"
+    ]
+  },
+  {
+    "objectID": "chapters/protocols-methods.html",
+    "href": "chapters/protocols-methods.html",
+    "title": "Protocols vs methods",
+    "section": "",
+    "text": "Biodiversity data: Protocols vs methods\n\n\n\n   Authors: Sophie Pamerlon, Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/protocols-methods/   Slides: https://biodiversitydata.github.io/protocols-methods/",
+    "crumbs": [
+      "Data acquisition",
+      "Protocols vs methods"
+    ]
+  },
+  {
+    "objectID": "chapters/databases.html",
+    "href": "chapters/databases.html",
+    "title": "Biodiversity databases",
+    "section": "",
+    "text": "Biodiversity databases\n\n\n\n   Authors: Anne-Sophie Archambeau, Yvan Le Bras & Nicolas Casajus   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Data acquisition",
+      "Biodiversity databases"
     ]
   },
   {
@@ -106,17 +129,52 @@
     "section": "",
     "text": "Data acquisition\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-access/   Slides: https://biodiversitydata.github.io/data-access/",
     "crumbs": [
+      "Data acquisition",
       "Data acquisition"
+    ]
+  },
+  {
+    "objectID": "chapters/files-formats.html",
+    "href": "chapters/files-formats.html",
+    "title": "Structure, formats & files",
+    "section": "",
+    "text": "Structure, formats & files\n\n\n\n   Authors: Yvan Le Bras & Nicolas Casajus   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Data management",
+      "Structure, formats & files"
     ]
   },
   {
     "objectID": "chapters/data-cleaning.html",
     "href": "chapters/data-cleaning.html",
-    "title": "Data cleaning",
+    "title": "Processing & cleansing data",
     "section": "",
-    "text": "Data cleaning\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-cleaning/   Slides: https://biodiversitydata.github.io/data-cleaning/",
+    "text": "Processing & cleansing data\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-cleaning/   Slides: https://biodiversitydata.github.io/data-cleaning/",
     "crumbs": [
-      "Data cleaning"
+      "Data management",
+      "Processing & cleansing data"
+    ]
+  },
+  {
+    "objectID": "chapters/openrefine.html",
+    "href": "chapters/openrefine.html",
+    "title": "Open Refine",
+    "section": "",
+    "text": "Open Refine tutorial\n\n\n\n   Author: Sophie Pamerlon   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Data management",
+      "Open Refine"
+    ]
+  },
+  {
+    "objectID": "chapters/vre.html",
+    "href": "chapters/vre.html",
+    "title": "Virtual Research Environment",
+    "section": "",
+    "text": "Virtual Research Environment (VRE)\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/vre/   Slides: https://biodiversitydata.github.io/vre/",
+    "crumbs": [
+      "Data management",
+      "Virtual Research Environment"
     ]
   },
   {
@@ -124,9 +182,54 @@
     "href": "chapters/datashare.html",
     "title": "DataSHARE projects",
     "section": "",
-    "text": "DataSHARE projects\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
+    "text": "DataSHARE projects\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
     "crumbs": [
+      "DataSHARE projects",
       "DataSHARE projects"
+    ]
+  },
+  {
+    "objectID": "chapters/legal-aspects.html",
+    "href": "chapters/legal-aspects.html",
+    "title": "Legal aspects",
+    "section": "",
+    "text": "Legal aspects\n\n\n\n   Author: Agnès Robin   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Legal aspects",
+      "Legal aspects"
+    ]
+  },
+  {
+    "objectID": "chapters/dmp.html",
+    "href": "chapters/dmp.html",
+    "title": "Data management plan",
+    "section": "",
+    "text": "Data management plan\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Opening data",
+      "Data management plan"
+    ]
+  },
+  {
+    "objectID": "chapters/standards.html",
+    "href": "chapters/standards.html",
+    "title": "(Meta)data standards",
+    "section": "",
+    "text": "(Meta)data standards\n\n\n\n   Authors: Yvan Le Bras & Sophie Pamerlon   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Opening data",
+      "(Meta)data standards"
+    ]
+  },
+  {
+    "objectID": "chapters/storage-archiving.html",
+    "href": "chapters/storage-archiving.html",
+    "title": "Storage and archiving",
+    "section": "",
+    "text": "Storage and archiving\n\n\n\n   Authors: Yvan Le Bras, Olivier Norvez & Nicolas Casajus   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Opening data",
+      "Storage and archiving"
     ]
   },
   {
@@ -134,9 +237,21 @@
     "href": "chapters/data-sharing.html",
     "title": "Dissemination and sharing",
     "section": "",
-    "text": "Data sharing\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/",
+    "text": "Data sharing\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/",
     "crumbs": [
+      "Opening data",
       "Dissemination and sharing"
+    ]
+  },
+  {
+    "objectID": "chapters/data-paper.html",
+    "href": "chapters/data-paper.html",
+    "title": "Data paper",
+    "section": "",
+    "text": "Writing a data paper\n\n\n\n   Authors: Sophie Pamerlon & Olivier Norvez   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "crumbs": [
+      "Opening data",
+      "Data paper"
     ]
   },
   {
@@ -144,8 +259,9 @@
     "href": "chapters/software-paper.html",
     "title": "Software paper",
     "section": "",
-    "text": "Writing a software paper\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/software-paper/   Slides: https://biodiversitydata.github.io/software-paper/",
+    "text": "Writing a software paper\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/software-paper/   Slides: https://biodiversitydata.github.io/software-paper/",
     "crumbs": [
+      "Opening data",
       "Software paper"
     ]
   },
