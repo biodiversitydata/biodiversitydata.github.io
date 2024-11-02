@@ -1,0 +1,22 @@
+## Structure, formats & files {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Structure, formats & files
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
+{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+:::
+
+
+<br />
+
+Coming soon...
+
+<!--
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+</div>
+-->

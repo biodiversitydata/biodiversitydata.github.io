@@ -1,0 +1,22 @@
+## Data management plan {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Data management plan
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
+{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+:::
+
+
+<br />
+
+Coming soon...
+
+<!--
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+</div>
+-->

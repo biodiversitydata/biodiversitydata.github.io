@@ -74,12 +74,34 @@ book:
   chapters:
     - index.qmd
     - chapters/prerequisites.qmd
-    - chapters/introduction.qmd
-    - chapters/data-acquisition.qmd
-    - chapters/data-cleaning.qmd
-    - chapters/datashare.qmd
-    - chapters/data-sharing.qmd
-    - chapters/software-paper.qmd
+    - part: "Introduction"
+      chapters: 
+        - chapters/introduction.qmd
+    - part: "Data acquisition"
+      chapters: 
+        - chapters/protocols-methods.qmd
+        - chapters/databases.qmd
+        - chapters/data-acquisition.qmd
+    - part: "Data management"
+      chapters: 
+        - chapters/files-formats.qmd
+        - chapters/data-cleaning.qmd
+        - chapters/openrefine.qmd
+        - chapters/vre.qmd
+    - part: "DataSHARE projects"
+      chapters: 
+        - chapters/datashare.qmd
+    - part: "Legal aspects"
+      chapters: 
+        - chapters/legal-aspects.qmd
+    - part: "Opening data"
+      chapters: 
+        - chapters/dmp.qmd
+        - chapters/standards.qmd
+        - chapters/storage-archiving.qmd
+        - chapters/data-sharing.qmd
+        - chapters/data-paper.qmd
+        - chapters/software-paper.qmd
     - chapters/resources.qmd
 
 format:

@@ -1,8 +1,8 @@
-## Data cleaning {.unnumbered}
+## Processing & cleansing data {.unnumbered}
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Data cleaning
+## Processing & cleansing data
 
 <br />
 {{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr) & [Camille Coux](https://www.fondationbiodiversite.fr/en/membre/camille-coux/)<br/>

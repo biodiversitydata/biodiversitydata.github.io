@@ -1,0 +1,18 @@
+## Virtual Research Environment {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Virtual Research Environment (VRE)
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/vre/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/vre/>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/vre"></iframe>
+</div>

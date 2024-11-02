@@ -1,0 +1,22 @@
+## Data paper {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Writing a data paper
+
+<br />
+{{< fa user >}} &nbsp;**Authors:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
+{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+:::
+
+
+<br />
+
+Coming soon...
+
+<!--
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+</div>
+-->
