@@ -5,18 +5,15 @@
 ## Structure, formats & files
 
 <br />
-{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
-{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+{{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-formats/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-formats/>
 :::
 
 
 <br />
 
-Coming soon...
 
-<!--
 <div class="container">
-  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/data-formats"></iframe>
 </div>
--->
