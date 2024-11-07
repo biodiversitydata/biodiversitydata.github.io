@@ -6,17 +6,13 @@
 
 <br />
 {{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
-{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
-{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+{{< fa brands github >}} &nbsp;**Source:**  <https://github.com/biodiversitydata/data-management-plan/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-management-plan/>
 :::
 
 
 <br />
 
-Coming soon...
-
-<!--
 <div class="container">
-  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/data-management-plan"></iframe>
 </div>
--->

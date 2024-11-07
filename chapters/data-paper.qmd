@@ -5,18 +5,14 @@
 ## Writing a data paper
 
 <br />
-{{< fa user >}} &nbsp;**Authors:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
-{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
-{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+{{< fa user >}} &nbsp;**Authors:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148), [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl) & [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-paper/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-paper/>
 :::
 
 
 <br />
 
-Coming soon...
-
-<!--
 <div class="container">
-  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/data-paper"></iframe>
 </div>
--->

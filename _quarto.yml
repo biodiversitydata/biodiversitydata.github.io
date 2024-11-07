@@ -88,12 +88,6 @@ book:
         - chapters/data-cleaning.qmd
         - chapters/openrefine.qmd
         - chapters/vre.qmd
-    - part: "DataSHARE projects"
-      chapters: 
-        - chapters/datashare.qmd
-    - part: "Legal aspects"
-      chapters: 
-        - chapters/legal-aspects.qmd
     - part: "Opening data"
       chapters: 
         - chapters/dmp.qmd
@@ -102,6 +96,9 @@ book:
         - chapters/data-sharing.qmd
         - chapters/data-paper.qmd
         - chapters/software-paper.qmd
+    - part: "DataSHARE projects"
+      chapters: 
+        - chapters/datashare.qmd
     - chapters/resources.qmd
 
 format:

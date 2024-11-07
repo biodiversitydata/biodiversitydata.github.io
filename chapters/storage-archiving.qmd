@@ -5,18 +5,14 @@
 ## Storage and archiving
 
 <br />
-{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr), [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl) & [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** Coming soon...<br/>
-{{< fa globe >}} &nbsp;**Slides:** Coming soon...
+{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-storage/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-storage/>
 :::
 
 
 <br />
 
-Coming soon...
-
-<!--
 <div class="container">
-  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/protocols-methods"></iframe>
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/data-storage"></iframe>
 </div>
--->
