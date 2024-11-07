@@ -178,33 +178,11 @@
     ]
   },
   {
-    "objectID": "chapters/datashare.html",
-    "href": "chapters/datashare.html",
-    "title": "DataSHARE projects",
-    "section": "",
-    "text": "DataSHARE projects\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
-    "crumbs": [
-      "DataSHARE projects",
-      "DataSHARE projects"
-    ]
-  },
-  {
-    "objectID": "chapters/legal-aspects.html",
-    "href": "chapters/legal-aspects.html",
-    "title": "Legal aspects",
-    "section": "",
-    "text": "Legal aspects\n\n\n\n   Author: Agnès Robin   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
-    "crumbs": [
-      "Legal aspects",
-      "Legal aspects"
-    ]
-  },
-  {
     "objectID": "chapters/dmp.html",
     "href": "chapters/dmp.html",
     "title": "Data management plan",
     "section": "",
-    "text": "Data management plan\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "Data management plan\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-management-plan/   Slides: https://biodiversitydata.github.io/data-management-plan/",
     "crumbs": [
       "Opening data",
       "Data management plan"
@@ -226,7 +204,7 @@
     "href": "chapters/storage-archiving.html",
     "title": "Storage and archiving",
     "section": "",
-    "text": "Storage and archiving\n\n\n\n   Authors: Yvan Le Bras, Olivier Norvez & Nicolas Casajus   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "Storage and archiving\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-storage/   Slides: https://biodiversitydata.github.io/data-storage/",
     "crumbs": [
       "Opening data",
       "Storage and archiving"
@@ -248,7 +226,7 @@
     "href": "chapters/data-paper.html",
     "title": "Data paper",
     "section": "",
-    "text": "Writing a data paper\n\n\n\n   Authors: Sophie Pamerlon & Olivier Norvez   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "Writing a data paper\n\n\n\n   Authors: Sophie Pamerlon, Olivier Norvez & Yvan Le Bras   Source: https://github.com/biodiversitydata/data-paper/   Slides: https://biodiversitydata.github.io/data-paper/",
     "crumbs": [
       "Opening data",
       "Data paper"
@@ -263,6 +241,17 @@
     "crumbs": [
       "Opening data",
       "Software paper"
+    ]
+  },
+  {
+    "objectID": "chapters/datashare.html",
+    "href": "chapters/datashare.html",
+    "title": "DataSHARE projects",
+    "section": "",
+    "text": "DataSHARE projects\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
+    "crumbs": [
+      "DataSHARE projects",
+      "DataSHARE projects"
     ]
   },
   {
