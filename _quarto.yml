@@ -81,6 +81,7 @@ book:
       chapters: 
         - chapters/protocols-methods.qmd
         - chapters/databases.qmd
+        - chapters/env-databases.qmd
         - chapters/data-acquisition.qmd
     - part: "Data management"
       chapters: 
