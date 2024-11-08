@@ -116,10 +116,21 @@
     "href": "chapters/databases.html",
     "title": "Biodiversity databases",
     "section": "",
-    "text": "Biodiversity databases\n\n\n\n   Authors: Anne-Sophie Archambeau, Yvan Le Bras & Nicolas Casajus   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "Biodiversity databases\n\n\n\n   Authors: Anne-Sophie Archambeau   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/gbif.pdf",
     "crumbs": [
       "Data acquisition",
       "Biodiversity databases"
+    ]
+  },
+  {
+    "objectID": "chapters/env-databases.html",
+    "href": "chapters/env-databases.html",
+    "title": "Environment databases",
+    "section": "",
+    "text": "Environment databases\n\n\n\n   Authors: Camille Coux & Nicolas Casajus   Source: https://github.com/biodiversitydata/environment-data/   Slides: https://biodiversitydata.github.io/environment-data/",
+    "crumbs": [
+      "Data acquisition",
+      "Environment databases"
     ]
   },
   {
@@ -160,7 +171,7 @@
     "href": "chapters/openrefine.html",
     "title": "Open Refine",
     "section": "",
-    "text": "Open Refine tutorial\n\n\n\n   Author: Sophie Pamerlon   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "Open Refine tutorial\n\n\n\n   Author: Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/openrefine.pdf",
     "crumbs": [
       "Data management",
       "Open Refine"
@@ -193,7 +204,7 @@
     "href": "chapters/standards.html",
     "title": "(Meta)data standards",
     "section": "",
-    "text": "(Meta)data standards\n\n\n\n   Authors: Yvan Le Bras & Sophie Pamerlon   Source: Coming soon…   Slides: Coming soon…\n\n\n\nComing soon…",
+    "text": "(Meta)data standards\n\n\n\n   Authors: Yvan Le Bras & Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/dwc-standard.pdf",
     "crumbs": [
       "Opening data",
       "(Meta)data standards"
