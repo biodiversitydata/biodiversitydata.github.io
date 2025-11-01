@@ -5,9 +5,12 @@
 ## Storage and archiving
 
 <br />
+_Hot versus cold data storage_
+
 {{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-storage/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-storage/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-storage/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

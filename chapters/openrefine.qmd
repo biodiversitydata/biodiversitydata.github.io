@@ -1,13 +1,16 @@
-## Open Refine {.unnumbered}
+## OpenRefine {.unnumbered}
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Open Refine tutorial
+## OpenRefine
 
 <br />
+_A powerful tool for working with messy data_
+
 {{< fa user >}} &nbsp;**Author:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
 {{< fa brands github >}} &nbsp;**Source:** N/A<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/chapters/openrefine.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/chapters/openrefine.pdf><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

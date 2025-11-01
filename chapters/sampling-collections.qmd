@@ -1,0 +1,21 @@
+## Sampling and collections {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Sampling and collections
+
+<br />
+_Transcribe data found on herbarium sheets_
+
+{{< fa user >}} &nbsp;**Authors:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
+{{< fa brands github >}} &nbsp;**Source:** N/A<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://docs.gbif.org/course-data-mobilization/fr/exercice-2.html><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://docs.gbif.org/course-data-mobilization/fr/exercice-2.html"></iframe>
+</div>

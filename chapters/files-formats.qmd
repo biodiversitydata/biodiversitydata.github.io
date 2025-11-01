@@ -1,13 +1,16 @@
-## Structure, formats & files {.unnumbered}
+## Data forrmats {.unnumbered}
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Structure, formats & files
+## Data forrmats
 
 <br />
+_Structure, formats, files & extensions_
+
 {{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-formats/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-formats/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-formats/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

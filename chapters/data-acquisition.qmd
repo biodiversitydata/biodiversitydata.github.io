@@ -5,9 +5,12 @@
 ## Data acquisition
 
 <br />
+_Web portals, scripting, API & Web scraping_
+
 {{< fa user >}} &nbsp;**Authors:** [Nicolas Casajus](https://nicolascasajus.fr) & [Camille Coux](https://www.fondationbiodiversite.fr/en/membre/camille-coux/)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/data-access/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-access/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-access/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

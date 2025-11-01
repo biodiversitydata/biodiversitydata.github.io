@@ -77,11 +77,15 @@ book:
     - part: "Introduction"
       chapters: 
         - chapters/introduction.qmd
+        - chapters/dmp.qmd
     - part: "Data acquisition"
       chapters: 
         - chapters/protocols-methods.qmd
-        - chapters/databases.qmd
-        - chapters/env-databases.qmd
+        - chapters/sampling-collections.qmd
+        - chapters/biodiversity-databases.qmd
+        - chapters/gbif-overview.qmd
+        - chapters/environment-databases.qmd
+        - chapters/data-repositories.qmd
         - chapters/data-acquisition.qmd
     - part: "Data management"
       chapters: 
@@ -89,17 +93,19 @@ book:
         - chapters/data-cleaning.qmd
         - chapters/openrefine.qmd
         - chapters/vre.qmd
+    - part: "Legal concerns"
+      chapters: 
+        - chapters/legal-concerns.qmd
+    - part: "DataSHARE projects"
+      chapters: 
+        - chapters/datashare.qmd
     - part: "Opening data"
       chapters: 
-        - chapters/dmp.qmd
         - chapters/standards.qmd
         - chapters/storage-archiving.qmd
         - chapters/data-sharing.qmd
         - chapters/data-paper.qmd
         - chapters/software-paper.qmd
-    - part: "DataSHARE projects"
-      chapters: 
-        - chapters/datashare.qmd
     - chapters/resources.qmd
 
 format:

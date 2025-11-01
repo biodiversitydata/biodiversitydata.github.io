@@ -5,9 +5,12 @@
 ## DataSHARE projects
 
 <br />
+_Sharing open-access and large scale biodiversity datasets_
+
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/datashare/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/datashare/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/datashare/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

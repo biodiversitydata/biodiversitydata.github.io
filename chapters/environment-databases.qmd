@@ -1,0 +1,21 @@
+## Environment databases {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Environment databases
+
+<br />
+_Overview of the major environmental databases_
+
+{{< fa user >}} &nbsp;**Authors:** [Camille Coux](https://www.fondationbiodiversite.fr/en/membre/camille-coux/)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/environment-data/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/environment-data/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/environment-data"></iframe>
+</div>

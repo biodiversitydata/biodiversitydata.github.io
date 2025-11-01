@@ -5,9 +5,12 @@
 ## Writing a software paper
 
 <br />
+_Promoting the tool you developed to access your data_
+
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/software-paper/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/software-paper/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/software-paper/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

@@ -5,9 +5,12 @@
 ## Virtual Research Environment (VRE)
 
 <br />
+_End-to-end solutions for accessing data, software & computing services_
+
 {{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
 {{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/vre/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/vre/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/vre/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 

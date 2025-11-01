@@ -1,0 +1,21 @@
+## Biodiversity databases {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Biodiversity databases
+
+<br />
+_Most frequently used databases in biodiversity research_
+
+{{< fa user >}} &nbsp;**Authors:** [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/biodiversitydata/biodiversity-data/><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/biodiversity-data/><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/biodiversity-data"></iframe>
+</div>

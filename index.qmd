@@ -5,22 +5,23 @@ toc: true
 # Welcome {.unnumbered}
 
 ::: {.callout-note}
-## Registrations for the 2024 session are closed.
+## Registration to the training course
 
-Registrations open each spring and the training course takes place during the fall. 
+Registrations open each spring and the training course takes place during fall. 
+More information is available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/la_donnee_en_biodiversite/).
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
-to stay informed. More information is available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/la_donnee_en_biodiversite/).
+to stay informed. 
 :::
 
 
 
-This five-day training course, co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/) aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.
+This five-day training course, co-organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/) aims to work on the different stages of the data lifecycle, from acquisition to opening, including management, storage and the drafting of data papers.
 
-We will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.
+We will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data lifecycle.
 
-
+![](images/data-lifecycle-0.png){width=50% fig-align="center"}
 
 ## Program {.unnumbered}
 
@@ -31,24 +32,26 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 - Reproducibility concepts
 - What is data/metadata?
 - Major types of biodiversity data
-- Framework and good practices (data cycle, FAIR, etc.)
+- Framework and good practices (data lifecycle, FAIR, etc.)
+- Data management plan
 
 **Data acquisition**
 
 - Best practices for data collection
 - Major biodiversity databases
+- Major environmental databases
 - Data acquisition: Web portals, API & web scraping
 
 **Data management**
 
 - Structure, formats & files
 - Processing & cleansing data
-- OpenRefine
+- Introduction to OpenRefine
 - Virtual Research Environments
 
 **DataSHARE projects**
 
-- FRB-CESAB DataSHARE call
+- FRB-CESAB DataSHARE projects
 - Zoom on Islets & PhenoFish groups
 
 **Legal aspects**
@@ -57,18 +60,23 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 
 **Opening data**
 
-- Data management plan
 - (Meta)data: standards
 - Storage and archiving
 - Dissemination and sharing
-- Enhancing value: data paper & software paper
+- Data & software paper
 
 
 ## Prerequisites {.unnumbered}
 
 {{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install 
-your working environment **before attending the training course**. Note that you just need to install [R](https://cran.r-project.org/), [RStudio IDE](https://posit.co/download/rstudio-desktop/) (optional) and [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users).
+your working environment **before attending the training course**. 
 
+::: {.callout-warning icon=true}
+## Installation notes
+
+For this training course, you just need to install [**R**](https://cran.r-project.org/), [**RStudio IDE**](https://posit.co/download/rstudio-desktop/) (optional) and [**Rtools**](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users only). **Do not install** git, Quarto, Pandoc or Docker.
+And do not forget to **configure RStudio IDE** as explaining [here](https://frbcesab.github.io/rsetup/chapters/rstudio.html).
+:::
 
 ## Material {.unnumbered}
 
@@ -78,7 +86,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
+> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2025) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
 
 
 ## Contributions {.unnumbered}

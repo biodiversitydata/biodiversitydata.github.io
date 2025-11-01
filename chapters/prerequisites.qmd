@@ -1,9 +1,12 @@
 # Prerequisites {.unnumbered}
 
-The guide to correctly install and set up [R](https://cran.r-project.org/), [RStudio IDE](https://posit.co/download/rstudio-desktop/) (optional) and [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users) is available at: <https://frbcesab.github.io/rsetup/>
+The guide to correctly install and configure a working environment for data science with {{< fa brands r-project>}} is available at:<br/><https://frbcesab.github.io/rsetup/>
 
-::: {.callout-note}
-## Note
+<br/>
 
-For this training course, you do not need to install Quarto, git, nor Docker. But you need to configure RStudio IDE as explaining [here](https://frbcesab.github.io/rsetup/chapters/rstudio.html).
+::: {.callout-warning icon=true}
+## Installation notes
+
+For this training course, you just need to install [**R**](https://cran.r-project.org/), [**RStudio IDE**](https://posit.co/download/rstudio-desktop/) (optional) and [**Rtools**](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users only). **Do not install** git, Quarto, Pandoc or Docker.
+And do not forget to **configure RStudio IDE** as explaining [here](https://frbcesab.github.io/rsetup/chapters/rstudio.html).
 :::
