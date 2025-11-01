@@ -9,19 +9,16 @@
 ![](https://raw.githubusercontent.com/biodiversitydata/.github/main/profile/banner-biodiversitydata_150dpi.png)
 
 
-Source of the [workshop](https://biodiversitydata.github.io/) **_Biodiversity Data Management_**
+Source of the training course [**Biodiversity Data Management**](https://biodiversitydata.github.io/) 
 co-organized by the 
 [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/),
 the [PNDB](https://www.pndb.fr/), and [GBIF France](http://www.gbif.fr/).
 
 
 
-#### ⚠️ **Work in progress**
-
-
 ### Citation
 
-> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
+> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2025) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
 
 
 <hr />
