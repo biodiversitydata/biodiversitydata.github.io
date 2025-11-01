@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Biodiversity data: From data collection to publication",
     "section": "",
-    "text": "Welcome\nThis five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France aims to work on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers.\nWe will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data cycle.",
+    "text": "Welcome\nThis five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France aims to work on the different stages of the data lifecycle, from acquisition to opening, including management, storage and the drafting of data papers.\nWe will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data lifecycle.",
     "crumbs": [
       "Welcome"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "Biodiversity data: From data collection to publication",
     "section": "Program",
-    "text": "Program\nGeneral context\n\nCurrent challenges in biodiversity data\nThe data ecosystem\nReproducibility concepts\nWhat is data/metadata?\nMajor types of biodiversity data\nFramework and good practices (data cycle, FAIR, etc.)\n\nData acquisition\n\nBest practices for data collection\nMajor biodiversity databases\nData acquisition: Web portals, API & web scraping\n\nData management\n\nStructure, formats & files\nProcessing & cleansing data\nOpenRefine\nVirtual Research Environments\n\nDataSHARE projects\n\nFRB-CESAB DataSHARE call\nZoom on Islets & PhenoFish groups\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\nData management plan\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nEnhancing value: data paper & software paper",
+    "text": "Program\nGeneral context\n\nCurrent challenges in biodiversity data\nThe data ecosystem\nReproducibility concepts\nWhat is data/metadata?\nMajor types of biodiversity data\nFramework and good practices (data lifecycle, FAIR, etc.)\nData management plan\n\nData acquisition\n\nBest practices for data collection\nMajor biodiversity databases\nMajor environmental databases\nData acquisition: Web portals, API & web scraping\n\nData management\n\nStructure, formats & files\nProcessing & cleansing data\nIntroduction to OpenRefine\nVirtual Research Environments\n\nDataSHARE projects\n\nFRB-CESAB DataSHARE projects\nZoom on Islets & PhenoFish groups\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nData & software paper",
     "crumbs": [
       "Welcome"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#prerequisites",
     "title": "Biodiversity data: From data collection to publication",
     "section": "Prerequisites",
-    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course. Note that you just need to install R, RStudio IDE (optional) and Rtools (for Windows users).",
+    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course.\n\n\n\n\n\n\nWarningInstallation notes\n\n\n\nFor this training course, you just need to install R, RStudio IDE (optional) and Rtools (for Windows users only). Do not install git, Quarto, Pandoc or Docker. And do not forget to configure RStudio IDE as explaining here.",
     "crumbs": [
       "Welcome"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#citation",
     "title": "Biodiversity data: From data collection to publication",
     "section": "Citation",
-    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2024) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://biodiversitydata.github.io/",
+    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2025) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://biodiversitydata.github.io/",
     "crumbs": [
       "Welcome"
     ]
@@ -84,7 +84,7 @@
     "href": "chapters/prerequisites.html",
     "title": "Prerequisites",
     "section": "",
-    "text": "The guide to correctly install and set up R, RStudio IDE (optional) and Rtools (for Windows users) is available at: https://frbcesab.github.io/rsetup/\n\n\n\n\n\n\nNote\n\n\n\nFor this training course, you do not need to install Quarto, git, nor Docker. But you need to configure RStudio IDE as explaining here.",
+    "text": "The guide to correctly install and configure a working environment for data science with  is available at:https://frbcesab.github.io/rsetup/\n\n\n\n\n\n\n\nWarningInstallation notes\n\n\n\nFor this training course, you just need to install R, RStudio IDE (optional) and Rtools (for Windows users only). Do not install git, Quarto, Pandoc or Docker. And do not forget to configure RStudio IDE as explaining here.",
     "crumbs": [
       "Prerequisites"
     ]
@@ -94,10 +94,21 @@
     "href": "chapters/introduction.html",
     "title": "General context",
     "section": "",
-    "text": "Biodiversity data: General context\n\n\n\n   Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/",
+    "text": "NoteBiodiversity data: General context\n\n\n\n Open science, Data lifecycle, FAIR principles, Data management plan, Metadata, Complex landscape & Reproducibility\n  Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Introduction",
       "General context"
+    ]
+  },
+  {
+    "objectID": "chapters/dmp.html",
+    "href": "chapters/dmp.html",
+    "title": "Data management plan",
+    "section": "",
+    "text": "NoteData management plan\n\n\n\n How to plan your data lifecycle?\n  Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-management-plan/   Slides: https://biodiversitydata.github.io/data-management-plan/ License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "Introduction",
+      "Data management plan"
     ]
   },
   {
@@ -105,32 +116,65 @@
     "href": "chapters/protocols-methods.html",
     "title": "Protocols vs methods",
     "section": "",
-    "text": "Biodiversity data: Protocols vs methods\n\n\n\n   Authors: Sophie Pamerlon, Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/protocols-methods/   Slides: https://biodiversitydata.github.io/protocols-methods/",
+    "text": "NoteProtocols vs methods\n\n\n\n Understanding differences between protocols and methods to better collect data\n  Authors: Sophie Pamerlon, Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/protocols-methods/   Slides: https://biodiversitydata.github.io/protocols-methods/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data acquisition",
       "Protocols vs methods"
     ]
   },
   {
-    "objectID": "chapters/databases.html",
-    "href": "chapters/databases.html",
+    "objectID": "chapters/sampling-collections.html",
+    "href": "chapters/sampling-collections.html",
+    "title": "Sampling and collections",
+    "section": "",
+    "text": "NoteSampling and collections\n\n\n\n Transcribe data found on herbarium sheets\n  Authors: Sophie Pamerlon   Source: N/A   Slides: https://docs.gbif.org/course-data-mobilization/fr/exercice-2.html License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "Data acquisition",
+      "Sampling and collections"
+    ]
+  },
+  {
+    "objectID": "chapters/biodiversity-databases.html",
+    "href": "chapters/biodiversity-databases.html",
     "title": "Biodiversity databases",
     "section": "",
-    "text": "Biodiversity databases\n\n\n\n   Authors: Anne-Sophie Archambeau   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/gbif.pdf",
+    "text": "NoteBiodiversity databases\n\n\n\n Most frequently used databases in biodiversity research\n  Authors: Olivier Norvez   Source: https://github.com/biodiversitydata/biodiversity-data/   Slides: https://biodiversitydata.github.io/biodiversity-data/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data acquisition",
       "Biodiversity databases"
     ]
   },
   {
-    "objectID": "chapters/env-databases.html",
-    "href": "chapters/env-databases.html",
+    "objectID": "chapters/gbif-overview.html",
+    "href": "chapters/gbif-overview.html",
+    "title": "GBIF overview",
+    "section": "",
+    "text": "NoteGBIF overview\n\n\n\n Presentation of the Global Biodiversity Information Facility\n  Authors: Anne-Sophie Archambeau   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/gbif-overview.pdf License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "Data acquisition",
+      "GBIF overview"
+    ]
+  },
+  {
+    "objectID": "chapters/environment-databases.html",
+    "href": "chapters/environment-databases.html",
     "title": "Environment databases",
     "section": "",
-    "text": "Environment databases\n\n\n\n   Authors: Camille Coux & Nicolas Casajus   Source: https://github.com/biodiversitydata/environment-data/   Slides: https://biodiversitydata.github.io/environment-data/",
+    "text": "NoteEnvironment databases\n\n\n\n Overview of the major environmental databases\n  Authors: Camille Coux   Source: https://github.com/biodiversitydata/environment-data/   Slides: https://biodiversitydata.github.io/environment-data/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data acquisition",
       "Environment databases"
+    ]
+  },
+  {
+    "objectID": "chapters/data-repositories.html",
+    "href": "chapters/data-repositories.html",
+    "title": "Biodiversity data repositories",
+    "section": "",
+    "text": "NoteBiodiversity data repositories\n\n\n\n Share and use data and metadata \n  Authors: Olivier Norvez & Yvan Le Bras   Source: https://github.com/biodiversitydata/data-repositories/   Slides: https://biodiversitydata.github.io/data-repositories/ License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "Data acquisition",
+      "Biodiversity data repositories"
     ]
   },
   {
@@ -138,7 +182,7 @@
     "href": "chapters/data-acquisition.html",
     "title": "Data acquisition",
     "section": "",
-    "text": "Data acquisition\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-access/   Slides: https://biodiversitydata.github.io/data-access/",
+    "text": "NoteData acquisition\n\n\n\n Web portals, scripting, API & Web scraping\n  Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-access/   Slides: https://biodiversitydata.github.io/data-access/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data acquisition",
       "Data acquisition"
@@ -147,34 +191,34 @@
   {
     "objectID": "chapters/files-formats.html",
     "href": "chapters/files-formats.html",
-    "title": "Structure, formats & files",
+    "title": "Data forrmats",
     "section": "",
-    "text": "Structure, formats & files\n\n\n\n   Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-formats/   Slides: https://biodiversitydata.github.io/data-formats/",
+    "text": "NoteData forrmats\n\n\n\n Structure, formats, files & extensions\n  Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-formats/   Slides: https://biodiversitydata.github.io/data-formats/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data management",
-      "Structure, formats & files"
+      "Data forrmats"
     ]
   },
   {
     "objectID": "chapters/data-cleaning.html",
     "href": "chapters/data-cleaning.html",
-    "title": "Processing & cleansing data",
+    "title": "Data processing",
     "section": "",
-    "text": "Processing & cleansing data\n\n\n\n   Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-cleaning/   Slides: https://biodiversitydata.github.io/data-cleaning/",
+    "text": "NoteData processing\n\n\n\n Good practices, tools and homogenizing taxonomy\n  Authors: Nicolas Casajus & Camille Coux   Source: https://github.com/biodiversitydata/data-cleaning/   Slides: https://biodiversitydata.github.io/data-cleaning/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data management",
-      "Processing & cleansing data"
+      "Data processing"
     ]
   },
   {
     "objectID": "chapters/openrefine.html",
     "href": "chapters/openrefine.html",
-    "title": "Open Refine",
+    "title": "OpenRefine",
     "section": "",
-    "text": "Open Refine tutorial\n\n\n\n   Author: Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/openrefine.pdf",
+    "text": "NoteOpenRefine\n\n\n\n A powerful tool for working with messy data\n  Author: Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/openrefine.pdf License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data management",
-      "Open Refine"
+      "OpenRefine"
     ]
   },
   {
@@ -182,21 +226,32 @@
     "href": "chapters/vre.html",
     "title": "Virtual Research Environment",
     "section": "",
-    "text": "Virtual Research Environment (VRE)\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/vre/   Slides: https://biodiversitydata.github.io/vre/",
+    "text": "NoteVirtual Research Environment (VRE)\n\n\n\n End-to-end solutions for accessing data, software & computing services\n  Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/vre/   Slides: https://biodiversitydata.github.io/vre/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data management",
       "Virtual Research Environment"
     ]
   },
   {
-    "objectID": "chapters/dmp.html",
-    "href": "chapters/dmp.html",
-    "title": "Data management plan",
+    "objectID": "chapters/legal-concerns.html",
+    "href": "chapters/legal-concerns.html",
+    "title": "Legal concerns",
     "section": "",
-    "text": "Data management plan\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-management-plan/   Slides: https://biodiversitydata.github.io/data-management-plan/",
+    "text": "NoteLegal concerns\n\n\n\n Why and how share, use and reuse biodiversity data?\n  Author: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/legal-concerns/   Slides: https://biodiversitydata.github.io/legal-concerns/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
-      "Opening data",
-      "Data management plan"
+      "Legal concerns",
+      "Legal concerns"
+    ]
+  },
+  {
+    "objectID": "chapters/datashare.html",
+    "href": "chapters/datashare.html",
+    "title": "DataSHARE projects",
+    "section": "",
+    "text": "NoteDataSHARE projects\n\n\n\n Sharing open-access and large scale biodiversity datasets\n  Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/ License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "DataSHARE projects",
+      "DataSHARE projects"
     ]
   },
   {
@@ -204,7 +259,7 @@
     "href": "chapters/standards.html",
     "title": "(Meta)data standards",
     "section": "",
-    "text": "(Meta)data standards\n\n\n\n   Authors: Yvan Le Bras & Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/dwc-standard.pdf",
+    "text": "Note(Meta)data standards\n\n\n\n Introduction to biodiversity information standards\n  Authors: Yvan Le Bras & Sophie Pamerlon   Source: N/A   Slides: https://biodiversitydata.github.io/chapters/dwc-standard.pdf License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "(Meta)data standards"
@@ -215,7 +270,7 @@
     "href": "chapters/storage-archiving.html",
     "title": "Storage and archiving",
     "section": "",
-    "text": "Storage and archiving\n\n\n\n   Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-storage/   Slides: https://biodiversitydata.github.io/data-storage/",
+    "text": "NoteStorage and archiving\n\n\n\n Hot versus cold data storage\n  Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-storage/   Slides: https://biodiversitydata.github.io/data-storage/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "Storage and archiving"
@@ -226,7 +281,7 @@
     "href": "chapters/data-sharing.html",
     "title": "Dissemination and sharing",
     "section": "",
-    "text": "Data sharing\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/",
+    "text": "NoteData sharing\n\n\n\n Research compendium, R Package & Shiny App\n  Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "Dissemination and sharing"
@@ -237,7 +292,7 @@
     "href": "chapters/data-paper.html",
     "title": "Data paper",
     "section": "",
-    "text": "Writing a data paper\n\n\n\n   Authors: Sophie Pamerlon, Olivier Norvez & Yvan Le Bras   Source: https://github.com/biodiversitydata/data-paper/   Slides: https://biodiversitydata.github.io/data-paper/",
+    "text": "NoteWriting a data paper\n\n\n\n Describe and share your {meta}data\n  Authors: Sophie Pamerlon, Olivier Norvez & Yvan Le Bras   Source: https://github.com/biodiversitydata/data-paper/   Slides: https://biodiversitydata.github.io/data-paper/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "Data paper"
@@ -248,21 +303,10 @@
     "href": "chapters/software-paper.html",
     "title": "Software paper",
     "section": "",
-    "text": "Writing a software paper\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/software-paper/   Slides: https://biodiversitydata.github.io/software-paper/",
+    "text": "NoteWriting a software paper\n\n\n\n Promoting the tool you developed to access your data\n  Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/software-paper/   Slides: https://biodiversitydata.github.io/software-paper/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "Software paper"
-    ]
-  },
-  {
-    "objectID": "chapters/datashare.html",
-    "href": "chapters/datashare.html",
-    "title": "DataSHARE projects",
-    "section": "",
-    "text": "DataSHARE projects\n\n\n\n   Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/datashare/   Slides: https://biodiversitydata.github.io/datashare/",
-    "crumbs": [
-      "DataSHARE projects",
-      "DataSHARE projects"
     ]
   },
   {
