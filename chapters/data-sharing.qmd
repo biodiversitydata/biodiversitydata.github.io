@@ -2,7 +2,7 @@
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Data sharing
+## Dissemination and sharing
 
 <br />
 _Research compendium, R Package & Shiny App_

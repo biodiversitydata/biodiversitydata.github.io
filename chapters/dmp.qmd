@@ -5,9 +5,9 @@
 ## Data management plan
 
 <br />
-_How to plan your data lifecycle?_
+_A tool to plan your own data lifecycle from the beginning_
 
-{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa user >}} &nbsp;**Authors:** [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
 {{< fa brands github >}} &nbsp;**Source:**  <https://github.com/biodiversitydata/data-management-plan/><br/>
 {{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/data-management-plan/><br/><br/>
 **License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}

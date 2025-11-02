@@ -1,8 +1,8 @@
-## Data forrmats {.unnumbered}
+## Data formats {.unnumbered}
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Data forrmats
+## Data formats
 
 <br />
 _Structure, formats, files & extensions_

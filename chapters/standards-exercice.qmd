@@ -1,0 +1,21 @@
+## Standards exercise {.unnumbered}
+
+
+::: {.callout-note icon=true appearance="simple"}
+## Standards exercise
+
+<br />
+_Using the EML through Galaxy-Ecology_
+
+{{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
+{{< fa brands github >}} &nbsp;N/A<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/chapters/standards-exercise.pdf><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://biodiversitydata.github.io/chapters/standards-exercise.pdf"></iframe>
+</div>

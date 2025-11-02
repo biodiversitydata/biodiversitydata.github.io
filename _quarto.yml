@@ -102,6 +102,7 @@ book:
     - part: "Opening data"
       chapters: 
         - chapters/standards.qmd
+        - chapters/standards-exercice.qmd
         - chapters/storage-archiving.qmd
         - chapters/data-sharing.qmd
         - chapters/data-paper.qmd
