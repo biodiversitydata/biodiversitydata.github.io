@@ -94,7 +94,7 @@
     "href": "chapters/introduction.html",
     "title": "General context",
     "section": "",
-    "text": "NoteBiodiversity data: General context\n\n\n\n Open science, Data lifecycle, FAIR principles, Data management plan, Metadata, Complex landscape & Reproducibility\n  Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/ License:  Creative Commons Attribution 4.0",
+    "text": "NoteGeneral context\n\n\n\n Open science, Data lifecycle, FAIR principles, Metadata, Complex landscape & Reproducibility\n  Authors: Olivier Norvez, Sophie Pamerlon & Nicolas Casajus   Source: https://github.com/biodiversitydata/general-context/   Slides: https://biodiversitydata.github.io/general-context/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Introduction",
       "General context"
@@ -105,7 +105,7 @@
     "href": "chapters/dmp.html",
     "title": "Data management plan",
     "section": "",
-    "text": "NoteData management plan\n\n\n\n How to plan your data lifecycle?\n  Authors: Yvan Le Bras & Olivier Norvez   Source: https://github.com/biodiversitydata/data-management-plan/   Slides: https://biodiversitydata.github.io/data-management-plan/ License:  Creative Commons Attribution 4.0",
+    "text": "NoteData management plan\n\n\n\n A tool to plan your own data lifecycle from the beginning\n  Authors: Olivier Norvez   Source: https://github.com/biodiversitydata/data-management-plan/   Slides: https://biodiversitydata.github.io/data-management-plan/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Introduction",
       "Data management plan"
@@ -191,12 +191,12 @@
   {
     "objectID": "chapters/files-formats.html",
     "href": "chapters/files-formats.html",
-    "title": "Data forrmats",
+    "title": "Data formats",
     "section": "",
-    "text": "NoteData forrmats\n\n\n\n Structure, formats, files & extensions\n  Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-formats/   Slides: https://biodiversitydata.github.io/data-formats/ License:  Creative Commons Attribution 4.0",
+    "text": "NoteData formats\n\n\n\n Structure, formats, files & extensions\n  Authors: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-formats/   Slides: https://biodiversitydata.github.io/data-formats/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Data management",
-      "Data forrmats"
+      "Data formats"
     ]
   },
   {
@@ -266,6 +266,17 @@
     ]
   },
   {
+    "objectID": "chapters/standards-exercice.html",
+    "href": "chapters/standards-exercice.html",
+    "title": "Standards exercise",
+    "section": "",
+    "text": "NoteStandards exercise\n\n\n\n Using the EML through Galaxy-Ecology\n  Authors: Yvan Le Bras & Olivier Norvez   N/A   Slides: https://biodiversitydata.github.io/chapters/standards-exercise.pdf License:  Creative Commons Attribution 4.0",
+    "crumbs": [
+      "Opening data",
+      "Standards exercise"
+    ]
+  },
+  {
     "objectID": "chapters/storage-archiving.html",
     "href": "chapters/storage-archiving.html",
     "title": "Storage and archiving",
@@ -281,7 +292,7 @@
     "href": "chapters/data-sharing.html",
     "title": "Dissemination and sharing",
     "section": "",
-    "text": "NoteData sharing\n\n\n\n Research compendium, R Package & Shiny App\n  Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/ License:  Creative Commons Attribution 4.0",
+    "text": "NoteDissemination and sharing\n\n\n\n Research compendium, R Package & Shiny App\n  Author: Nicolas Casajus   Source: https://github.com/biodiversitydata/data-sharing/   Slides: https://biodiversitydata.github.io/data-sharing/ License:  Creative Commons Attribution 4.0",
     "crumbs": [
       "Opening data",
       "Dissemination and sharing"
