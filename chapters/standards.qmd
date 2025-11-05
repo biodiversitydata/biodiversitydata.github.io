@@ -10,11 +10,9 @@ _Introduction to biodiversity information standards_
 {{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
 {{< fa brands github >}} &nbsp;**Source:** N/A<br/>
 {{< fa globe >}} &nbsp;**Slides:** <https://biodiversitydata.github.io/chapters/dwc-standard.pdf><br/>
-{{< fa globe >}} &nbsp;**Exercises:** <https://biodiversitydata.github.io/chapters/exercise-ipt-mdt.pdf><br/><br/>
+{{< fa globe >}} &nbsp;**Exercises:** <https://biodiversitydata.github.io/chapters/standards.pdf><br/><br/>
 **License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
-
-
 
 
 <br />
