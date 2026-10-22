@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "",
     "text": "Welcome\nThis five-day training course, co-organized by the FRB-CESAB, the PNDB, and GBIF France aims to work on the different stages of the data lifecycle, from acquisition to opening, including management, storage and the drafting of data papers.\nWe will 1) contextualize the issues surrounding the understanding, sharing and (re)use of biodiversity data and metadata, and 2) enhance the skills of communities involved in one or more stages of the data lifecycle.",
     "crumbs": [
@@ -12,9 +12,9 @@
   {
     "objectID": "index.html#program",
     "href": "index.html#program",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Program",
-    "text": "Program\nGeneral context\n\nCurrent challenges in biodiversity data\nThe data ecosystem\nReproducibility concepts\nWhat is data/metadata?\nMajor types of biodiversity data\nFramework and good practices (data lifecycle, FAIR, etc.)\nData management plan\n\nData acquisition\n\nBest practices for data collection\nMajor biodiversity databases\nMajor environmental databases\nData acquisition: Web portals, API & web scraping\n\nData management\n\nStructure, formats & files\nProcessing & cleansing data\nIntroduction to OpenRefine\nVirtual Research Environments\n\nDataSHARE projects\n\nFRB-CESAB DataSHARE projects\nZoom on Islets & PhenoFish groups\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nData & software paper",
+    "text": "Program\nGeneral context\n\nCurrent challenges in biodiversity data\nThe data ecosystem\nWhat is data/metadata?\nMajor types of biodiversity data\nReproducibility concepts\nFramework and good practices (data lifecycle, FAIR, etc.)\nData management plan\n\nData acquisition\n\nBest practices for data collection\nMajor biodiversity databases\nMajor environmental databases\nData acquisition: Web portals, API & web scraping\n\nData management\n\nStructure, formats & files\nProcessing & cleansing data\nIntroduction to OpenRefine\nVirtual Research Environments\n\nDataSHARE projects\n\nFRB-CESAB DataSHARE projects\nZoom on the InvaHealth project\n\nLegal aspects\n\nSharing, licensing, etc.\n\nOpening data\n\n(Meta)data: standards\nStorage and archiving\nDissemination and sharing\nData & software paper",
     "crumbs": [
       "Welcome"
     ]
@@ -22,9 +22,9 @@
   {
     "objectID": "index.html#prerequisites",
     "href": "index.html#prerequisites",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Prerequisites",
-    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course.\n\n\n\n\n\n\nWarningInstallation notes\n\n\n\nFor this training course, you just need to install R, RStudio IDE (optional) and Rtools (for Windows users only). Do not install git, Quarto, Pandoc or Docker. And do not forget to configure RStudio IDE as explaining here.",
+    "text": "Prerequisites\n  Please follow this tutorial to install your working environment before attending the training course.",
     "crumbs": [
       "Welcome"
     ]
@@ -32,7 +32,7 @@
   {
     "objectID": "index.html#material",
     "href": "index.html#material",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Material",
     "text": "Material\nAll the material used in this training course (slides, data, exercises) is available at: https://github.com/biodiversitydata/",
     "crumbs": [
@@ -42,9 +42,9 @@
   {
     "objectID": "index.html#citation",
     "href": "index.html#citation",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Citation",
-    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2025) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://biodiversitydata.github.io/",
+    "text": "Citation\n\nCasajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S & Pamerlon S (2026) Biodiversity data: From collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: https://biodiversitydata.github.io/",
     "crumbs": [
       "Welcome"
     ]
@@ -52,7 +52,7 @@
   {
     "objectID": "index.html#contributions",
     "href": "index.html#contributions",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Contributions",
     "text": "Contributions\nIf you see mistakes or want to suggest changes, please create an issue on the source repository.",
     "crumbs": [
@@ -62,7 +62,7 @@
   {
     "objectID": "index.html#reuse",
     "href": "index.html#reuse",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "Reuse",
     "text": "Reuse\nText and figures are licensed under Creative Commons Attribution CC By 4.0, unless otherwise noted.",
     "crumbs": [
@@ -72,7 +72,7 @@
   {
     "objectID": "index.html#see-also",
     "href": "index.html#see-also",
-    "title": "Biodiversity data: From data collection to publication",
+    "title": "Biodiversity data: From collection to publication",
     "section": "See also",
     "text": "See also\nDiscover the other training courses provided by the FRB-CESAB and its partners: https://frbcesab.github.io/training-courses/",
     "crumbs": [
@@ -84,7 +84,7 @@
     "href": "chapters/prerequisites.html",
     "title": "Prerequisites",
     "section": "",
-    "text": "The guide to correctly install and configure a working environment for data science with  is available at:https://frbcesab.github.io/rsetup/\n\n\n\n\n\n\n\nWarningInstallation notes\n\n\n\nFor this training course, you just need to install R, RStudio IDE (optional) and Rtools (for Windows users only). Do not install git, Quarto, Pandoc or Docker. And do not forget to configure RStudio IDE as explaining here.",
+    "text": "The guide to correctly install and configure a working environment for data science with  is available at:https://frbcesab.github.io/rsetup/chapters/biodiversity-data.html",
     "crumbs": [
       "Prerequisites"
     ]
@@ -318,16 +318,6 @@
     "crumbs": [
       "Opening data",
       "Software paper"
-    ]
-  },
-  {
-    "objectID": "chapters/resources.html",
-    "href": "chapters/resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Coming soon…\n\nRecommandations pour l’adoption des identifiants persistants dans l’enseignement supérieur et la recherche. Véronique Stoll (Observatoire de Paris-PSL) et Frédéric de Lamotte (INRAE). Septembre 2025. https://www.ouvrirlascience.fr/recommandations-pour-ladoption-des-identifiants-persistants-dans-lenseignement-superieur-et-la-recherche-2/",
-    "crumbs": [
-      "Resources"
     ]
   }
 ]
