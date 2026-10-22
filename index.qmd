@@ -29,9 +29,9 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 
 - Current challenges in biodiversity data
 - The data ecosystem
-- Reproducibility concepts
 - What is data/metadata?
 - Major types of biodiversity data
+- Reproducibility concepts
 - Framework and good practices (data lifecycle, FAIR, etc.)
 - Data management plan
 
@@ -52,7 +52,7 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 **DataSHARE projects**
 
 - FRB-CESAB DataSHARE projects
-- Zoom on Islets & PhenoFish groups
+- Zoom on the InvaHealth project
 
 **Legal aspects**
 
@@ -68,15 +68,9 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 
 ## Prerequisites {.unnumbered}
 
-{{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/) to install 
+{{< fa hand-point-right >}}&nbsp; Please follow this [tutorial](https://frbcesab.github.io/rsetup/chapters/biodiversity-data.html) to install 
 your working environment **before attending the training course**. 
 
-::: {.callout-warning icon=true}
-## Installation notes
-
-For this training course, you just need to install [**R**](https://cran.r-project.org/), [**RStudio IDE**](https://posit.co/download/rstudio-desktop/) (optional) and [**Rtools**](https://cran.r-project.org/bin/windows/Rtools/) (for Windows users only). **Do not install** git, Quarto, Pandoc or Docker.
-And do not forget to **configure RStudio IDE** as explaining [here](https://frbcesab.github.io/rsetup/chapters/rstudio.html).
-:::
 
 ## Material {.unnumbered}
 
@@ -86,7 +80,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2025) Biodiversity data: From data collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
+> Casajus N, Coux C, Le Bras Y, Norvez O, Archambeau A-S  & Pamerlon S (2026) Biodiversity data: From collection to publication. An FRB-CESAB, PNDB & GBIF France training course. URL: <https://biodiversitydata.github.io/>
 
 
 ## Contributions {.unnumbered}
