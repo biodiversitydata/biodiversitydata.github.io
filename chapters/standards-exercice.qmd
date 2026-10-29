@@ -1,11 +1,11 @@
-## Standards exercise {.unnumbered}
+## Integrated Publishing Toolkit
 
 
 ::: {.callout-note icon=true appearance="simple"}
-## Standards exercise
+## Integrated Publishing Toolkit (IPT)
 
 <br />
-_Using the EML through Galaxy-Ecology_
+_Create and manage distributed data repositories_
 
 {{< fa user >}} &nbsp;**Authors:** [Yvan Le Bras](https://scholar.google.fr/citations?user=PVBOyvYAAAAJ&hl=fr) & [Olivier Norvez](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)<br/>
 {{< fa brands github >}} &nbsp;**Source:** N/A<br/>

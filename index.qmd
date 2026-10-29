@@ -23,47 +23,11 @@ We will 1) contextualize the issues surrounding the understanding, sharing and (
 
 ![](images/data-lifecycle-0.png){width=50% fig-align="center"}
 
-## Program {.unnumbered}
 
-**General context**
+```{r}
+#| child: "chapters/program.qmd"
+```
 
-- Current challenges in biodiversity data
-- The data ecosystem
-- What is data/metadata?
-- Major types of biodiversity data
-- Reproducibility concepts
-- Framework and good practices (data lifecycle, FAIR, etc.)
-- Data management plan
-
-**Data acquisition**
-
-- Best practices for data collection
-- Major biodiversity databases
-- Major environmental databases
-- Data acquisition: Web portals, API & web scraping
-
-**Data management**
-
-- Structure, formats & files
-- Processing & cleansing data
-- Introduction to OpenRefine
-- Virtual Research Environments
-
-**DataSHARE projects**
-
-- FRB-CESAB DataSHARE projects
-- Zoom on the InvaHealth project
-
-**Legal aspects**
-
-- Sharing, licensing, etc.
-
-**Opening data**
-
-- (Meta)data: standards
-- Storage and archiving
-- Dissemination and sharing
-- Data & software paper
 
 
 ## Prerequisites {.unnumbered}

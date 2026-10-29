@@ -1,5 +1,7 @@
 project:
   type: book
+  resources:
+    - "chapters/*.pdf"
 
 book:
   title: "Biodiversity data: From collection to publication"
@@ -73,36 +75,32 @@ book:
 
   chapters:
     - index.qmd
-    - chapters/prerequisites.qmd
-    - part: "Introduction"
+    # - chapters/prerequisites.qmd
+    - part: "Monday"
       chapters: 
         - chapters/introduction.qmd
         - chapters/dmp.qmd
-    - part: "Data acquisition"
-      chapters: 
         - chapters/protocols-methods.qmd
         - chapters/sampling-collections.qmd
+    - part: "Tuesday"
+      chapters: 
         - chapters/biodiversity-databases.qmd
         - chapters/gbif-overview.qmd
         - chapters/environment-databases.qmd
-        - chapters/data-repositories.qmd
+        # - chapters/data-repositories.qmd
         - chapters/data-acquisition.qmd
-    - part: "Data management"
-      chapters: 
         - chapters/files-formats.qmd
         - chapters/data-cleaning.qmd
         - chapters/openrefine.qmd
-        - chapters/vre.qmd
-    - part: "Legal concerns"
-      chapters: 
-        - chapters/legal-concerns.qmd
-    - part: "DataSHARE projects"
+    - part: "Wednesday"
       chapters: 
         - chapters/datashare.qmd
-    - part: "Opening data"
-      chapters: 
+        - chapters/legal-concerns.qmd
+        - chapters/vre.qmd
         - chapters/standards.qmd
-        - chapters/standards-exercice.qmd
+        - chapters/ipt.qmd
+    - part: "Thursday"
+      chapters: 
         - chapters/storage-archiving.qmd
         - chapters/data-sharing.qmd
         - chapters/data-paper.qmd
