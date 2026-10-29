@@ -1,0 +1,16 @@
+## GBIF tools
+
+::: {.callout-note icon=true appearance="simple"}
+## Information
+
+{{< fa user >}} &nbsp; **Author:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
+{{< fa globe >}}&nbsp; **Slides:** <https://biodiversitydata.github.io/chapters/gbif-tools.pdf><br/><br/>
+**License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+:::
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="gbif-tools.pdf"></iframe>
+</div>
+

@@ -98,6 +98,7 @@ book:
         - chapters/legal-concerns.qmd
         - chapters/vre.qmd
         - chapters/standards.qmd
+        - chapters/gbif-tools.qmd
         - chapters/ipt.qmd
     - part: "Thursday"
       chapters: 

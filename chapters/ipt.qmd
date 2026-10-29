@@ -4,13 +4,13 @@
 ## Information
 
 {{< fa user >}} &nbsp; **Authors:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
-{{< fa globe >}}&nbsp; **Practice:** <https://biodiversitydata.github.io/chapters/ipt.pdf><br/><br/>
+{{< fa globe >}}&nbsp; **Practice:** <https://biodiversitydata.github.io/chapters/practice-ipt.pdf><br/><br/>
 **License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="ipt.pdf"></iframe>
+  <iframe class="responsive-iframe" src="practice-ipt.pdf"></iframe>
 </div>
 
