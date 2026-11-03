@@ -5,7 +5,7 @@
 ## Information
 
 {{< fa user >}} &nbsp; **Author:** [Sophie Pamerlon](https://www.patrinat.fr/fr/annuaire/sophie-pamerlon-6148)<br/>
-{{< fa globe >}}&nbsp; **Slides:** <https://biodiversitydata.github.io/chapters/openrefine.pdf><br/><br/>
+{{< fa globe >}}&nbsp; **Slides:** <https://biodiversitydata.github.io/chapters/openrefine.pdf><br/>
 {{< fa globe >}}&nbsp; **Practice:** <https://docs.gbif.org/course-data-mobilization/fr/exercice-3a-c.html><br/><br/>
 **License:** &nbsp;[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) &nbsp;{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
 :::
