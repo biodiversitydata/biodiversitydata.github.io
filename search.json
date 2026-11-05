@@ -309,5 +309,15 @@
       "Thursday",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Software paper</span>"
     ]
+  },
+  {
+    "objectID": "chapters/resources.html",
+    "href": "chapters/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "FAIR & CARE Principles\n\nGO FAIR\nGlobal Indigenous Data Alliance (GIDA)\nOpen Data for People and Purpose - GBIF Task Group on Indigenous Data Governance\nGroup on Earth Observation (GEO)\nDoraNum\nKunming-Montreal Global Biodiversity Framework - Target 21\nNCEAS Delta Science Program - Chapter 9\nCarroll SR et al. (2020) The CARE Principles for Indigenous Data Governance  \nCarroll SR et al. (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures  \nWilkinson MD et al. (2017) The FAIR Guiding Principles for scientific data management and stewardship  \n\n\n\nReproducibility\n\nClaerbout JF & Karrenbach M (1992) Electronic documents give reproducible research a new meaning  \nJenkins GB et al. (2023) Reproducibility in ecology and evolution: Minimum standards for data and code  \nPeng RD (2011) Reproducible research in computational science  \nPowers SM & Hampton SE (2018) Open science, reproducibility, and transparency in ecology  \nWilson G et al. (2017) Good enough practices in scientific computing  \n\n\n\nOpen Science\n\nUNESCO\nEOSC\nEOSC-Hub\nEuropean Commission, n.d.\nSecond French Plan for Open Science\nThe French Open Science Strategy\nOuvrir la science (2024)\nDORANum\nDMP OPIDor tool\nOuvrir la Science - PGD - recommandations l’ANR - in French -\nGBIF.org\nDORANum\nCreative Commons\nThe Open Science Training Handbook\n\n\n\nEcoinformatics & Biodiversity Informatics\n\nPage (2016)\nMichener et al. (1997)\nOECD (2007)\nBorgman (2020)\nGarnier et al. (2025)\nBlair et al. (2020)\nMatthew et al. (2019)\nKissling et al. (2018)\nEcological Metadata Language (EML)\nJones et al (2006)\nCBD (2023)\nNorvez et al.(2026)\nKemp et al. (2026)\nNorvez et al., (2025)\nFRB-CESAB Training courses\nFRB-CESAB Packages repository\nFRB-CESAB Publications\nGBIF Trainings\nGBIF Resources\nFeng X et al. (2022)\nGonzalez A et al. (2024)\nGaltier et al. (2026)\nVRE / Galaxy",
+    "crumbs": [
+      "Resources"
+    ]
   }
 ]
