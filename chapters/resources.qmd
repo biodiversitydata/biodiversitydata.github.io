@@ -1,1 +1,65 @@
 ## Resources {.unnumbered}
+
+### FAIR & CARE Principles
+
+- [GO FAIR](https://www.gofair.foundation/)
+- [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/) 
+- [Open Data for People and Purpose - GBIF Task Group on Indigenous Data Governance](https://www.gbif.org/news/1Ke3Gk2USgdIW5OgDlBIKY/open-data-for-people-and-purpose-gbif-establishes-task-group-on-indigenous-data-governance) 
+- [Group on Earth Observation (GEO)](https://earthobservations.org/groups/geo-indigenous-alliance) 
+- [DoraNum](https://doranum.fr/aspects-juridiques-ethiques/les-principes-care_10_13143_af7s-g015/)
+- [Kunming-Montreal Global Biodiversity Framework - Target 21](https://www.cbd.int/gbf/targets/21)
+- [NCEAS Delta Science Program - Chapter 9](https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html)
+- Carroll SR _et al._ (2020) **The CARE Principles for Indigenous Data Governance** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.5334/dsj-2020-043)
+- Carroll SR _et al._ (2021) **Operationalizing the CARE and FAIR Principles for Indigenous data futures** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1038/s41597-021-00892-0)
+- Wilkinson MD _et al._ (2017) **The FAIR Guiding Principles for scientific data management and stewardship** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1038/sdata.2016.18)
+
+### Reproducibility
+
+- Claerbout JF & Karrenbach M (1992) **Electronic documents give reproducible research a new meaning** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1190/1.1822162)
+- Jenkins GB _et al._ (2023) **Reproducibility in ecology and evolution: Minimum standards for data and code** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1002/ece3.9961)
+- Peng RD (2011) **Reproducible research in computational science** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1126/science.1213847)
+- Powers SM & Hampton SE (2018) **Open science, reproducibility, and transparency in ecology** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1002/eap.1822)
+- Wilson G _et al._ (2017) **Good enough practices in scientific computing** &nbsp;[{{< fa up-right-from-square size=xs >}}](https://doi.org/10.1371/journal.pcbi.1005510)
+
+### Open Science
+
+- [UNESCO](https://www.unesco.org/en/open-science)
+- [EOSC](https://eosc.eu/)
+- [EOSC-Hub](https://eosc-hub.eu/open-science-info)
+- [European Commission, n.d.](https://eosc-hub.eu/open-science-info)
+- [Second French Plan for Open Science](https://www.ouvrirlascience.fr/deuxieme-plan-national-pour-la-science-ouverte-pnso/)
+- [The French Open Science Strategy](https://www.ouvrirlascience.fr/french-open-science-strategy/)
+- [Ouvrir la science (2024)](https://www.ouvrirlascience.fr/selectionner-un-entrepot-thematique-de-confiance-pour-le-depot-de-donnees-methodologie-et-analyse-de-loffre-existante/)
+- [DORANum](https://doranum.fr/plan-gestion-donnees-dmp/)
+- [DMP OPIDor tool](https://dmp.opidor.fr)
+- [Ouvrir la Science - PGD - recommandations l'ANR - *in French* -](https://www.ouvrirlascience.fr/plan-de-gestion-de-donnees-recommandations-a-lanr/)
+- [GBIF.org](https://www.gbif.org/data-papers)
+- [DORANum](https://doranum.fr/data-paper-data-journal/)
+- [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)
+- [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/)
+
+### Ecoinformatics & Biodiversity Informatics
+
+- [Page (2016)](https://riojournal.com/article/8767)
+- [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
+- [OECD (2007)](https://www.oecd-ilibrary.org/science-and-technology/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_9789264034020-en-fr)
+- [Borgman (2020)](https://books.openedition.org/oep/14692)
+- [Garnier et al. (2025)](https://doi.org/10.1016/j.tree.2025.06.004)
+- [Blair _et al._ (2020)](https://doi.org/10.3897/BDJ.8.e32765)
+- [Matthew _et al._ (2019)](https://eml.ecoinformatics.org/eml-schema)
+- [Kissling _et al._ (2018)](https://doi.org/10.1111/brv.12359)
+- [Ecological Metadata Language (EML)](https://eml.ecoinformatics.org/eml-schema)
+- [Jones _et al_ (2006)](https://doi.org/10.1146/annurev.ecolsys.37.091305.110031)
+- [CBD (2023)](https://www.cbd.int/gbf/targets/21)
+- [Norvez *et al.*(2026)](https://hal.science/DATA-TERRA/hal-05742498v1)
+- [Kemp _et al._ (2026)](https://doi.org/10.1146/annurev-environ-121224-084200)
+- [Norvez _et al._, (2025)](https://hal.science/DATA-TERRA/hal-05552026v1)
+- [FRB-CESAB Training courses](https://frbcesab.github.io/content/courses.html)
+- [FRB-CESAB Packages repository](https://frbcesab.r-universe.dev)
+- [FRB-CESAB Publications](https://www.fondationbiodiversite.fr/en/cesab-scientific-publications/)
+- [GBIF Trainings](https://www.gbif.org/training)
+- [GBIF Resources](https://www.gbif.org/resource/search)
+- [Feng X _et al._ (2022)](https://doi.org/10.1111/geb.13497)
+- [Gonzalez A _et al._ (2024)](https://doi.org/10.1038/s41559-023-02171-0)
+- [Galtier _et al._ (2026)](https://academic.oup.com/jeb/article/39/2/190/8325101)
+- VRE / Galaxy
